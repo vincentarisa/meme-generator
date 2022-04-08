@@ -1,0 +1,46 @@
+/*Navigation Bar Custom Styles*/
+.custom-container{
+    background: linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
+    color: #FFFFFF;
+}
+
+.custom-nav{
+
+}
+
+.custom-nav-img{
+    height: 14%;
+    width: 14%;
+    margin-right: 6px;
+}
+
+.custom-nav-title{
+    font-size: 21px;
+}
+
+.custom-nav-project{
+    font-size: 14px;
+    font-weight: 500;
+}
+/*Navigation Bar Custom Styles*/
+
+/*Meme Form & Display Custom Styles*/
+.custom-button{
+    background: linear-gradient(90.41deg, #711F8D 1.14%, #A818DA 100%);
+    border-radius: 5px;
+}
+
+.custom-meme-img{
+    width: 55%;
+    height: 50%;
+    object-fit: cover;
+}
+
+@media (max-width: 768px) {
+    .custom-meme-img{
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+}
+/*Meme Form & Display Custom Styles*/

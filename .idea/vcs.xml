@@ -2,5 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../form-template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../todo-list" vcs="Git" />
   </component>
 </project>

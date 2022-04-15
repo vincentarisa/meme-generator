@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../form-template/.idea/form-template.iml" filepath="$PROJECT_DIR$/../form-template/.idea/form-template.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/meme-generator.iml" filepath="$PROJECT_DIR$/.idea/meme-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../todo-list/.idea/todo-list.iml" filepath="$PROJECT_DIR$/../todo-list/.idea/todo-list.iml" />
       <module fileurl="file://$PROJECT_DIR$/../travel-journal/.idea/travel-journal.iml" filepath="$PROJECT_DIR$/../travel-journal/.idea/travel-journal.iml" />
     </modules>
   </component>
